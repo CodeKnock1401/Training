@@ -1,0 +1,2 @@
+java Benchmark1  0.08s user 0.10s system 25% cpu 0.712 total
+java Benchmark2  0.08s user 0.04s system 62% cpu 0.192 total
